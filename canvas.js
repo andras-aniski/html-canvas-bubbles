@@ -1,4 +1,9 @@
+// =====
+// Warning: this file is no longer being used in this example. It has been ported to TypeScript.
+// =====
+
 var canvas = document.querySelector('canvas');
+console.log(document);
 
 var width = window.innerWidth;
 var height = window.innerHeight;
@@ -6,7 +11,6 @@ canvas.width = width;
 canvas.height = height;
 
 var context = canvas.getContext('2d'); // we pass a super object that provides a lot of methods for drawing
-
 // context.fillStyle = 'rgba(255, 0, 0, 0.5)';
 // context.fillRect(100, 100, 100, 100);
 // context.fillStyle = 'rgba(0, 0, 255, 0.5)';
