@@ -1,4 +1,4 @@
-# js-canvas-bubbles
+# html-canvas-bubbles
 
 This is an awesome html canvas tutorial by Chris Curses's [video tutorial](https://www.youtube.com/watch?v=EO6OkltgudE).
 
